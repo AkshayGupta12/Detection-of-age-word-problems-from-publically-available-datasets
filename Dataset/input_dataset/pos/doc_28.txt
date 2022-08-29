@@ -1,0 +1,1 @@
+The sum of the ages of two ships is 12 years. Two years ago, the age of the older ship was three times the age of the newer ship. Find the present age of each ship.

@@ -1,0 +1,1 @@
+Cary is 9 years older than Dan. In 7 years, the sum of their ages will equal 93.  Find both of their ages now.
